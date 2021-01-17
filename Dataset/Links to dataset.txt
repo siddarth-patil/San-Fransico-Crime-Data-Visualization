@@ -1,0 +1,10 @@
+As the dataset is too big I am providing the links to the dataset.
+
+
+Police Department Incident Reports: Historical 2003 to May 2018
+https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+
+
+
+Police Department Incident Reports: 2018 to Present
+https://data.sfgov.org/Public-Safety/Police-Department-Incident-R-eports-2018-to-Present/wg3w-h783
